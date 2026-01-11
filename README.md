@@ -81,6 +81,8 @@ and I2C display communication.
 
 ────────────────────────────────────────────────────────
 
-📄 LICENSE
+⚡CUSTOM PCB
+<h2>Schema</h2>
+<img src="images/schema.png" width="400">
+If you want to order the pcb just upload the zip file
 
-Educational project.
