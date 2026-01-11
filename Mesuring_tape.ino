@@ -19,8 +19,8 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 /* ───────────── CONFIGURATION ULTRASON ───────────── */
-#define TRIG_PIN 4
-#define ECHO_PIN 5
+#define TRIG_PIN 6
+#define ECHO_PIN 7
 #define MAX_DISTANCE_CM 400  // Portée max : 4 mètres
 
 long duration;
